@@ -125,16 +125,4 @@ npm run build
 npm start
 ```
 
----
-
-## 🎯 PM Pitch: How This Aligns with Corporate Placements
-
-*For recruiters looking at Product Manager or Consulting candidates:*
-
-1.  **User-Centric Complexity Mitigation**: Translates highly complex, disparate cybersecurity regulations (DPDP, GDPR, NIST) and technical audits into a unified, clean, single-screen dashboard.
-2.  **Data-Driven Decision Support**: Built the entire value proposition around quantifying business value. Proves understanding of the most critical product metric: *enabling user behavioral transformation with minimal product onboarding friction*.
-3.  **Revenue & Compliance Focus**: Designed Specifically to reflect modern B2B SaaS requirements: regionalization, legal frameworks, and financial projections. Proves the creator's comfort operating at the intersection of business, law, and modern software engineering.
-
----
-
 *Cyvanta is licensed under the MIT License. Designed and built with extreme precision.*
