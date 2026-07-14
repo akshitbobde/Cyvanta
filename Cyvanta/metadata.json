@@ -1,0 +1,8 @@
+{
+  "name": "Cyvanta",
+  "description": "Digital trust analytics platform for SMEs. Assess cybersecurity maturity through a simplified trust scoring framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
